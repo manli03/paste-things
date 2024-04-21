@@ -32,21 +32,21 @@
    - Task Management: Trello Board - "UMI Development Tasks".
 
 8. **TEAM RULES AND EXPECTATIONS**
-   8.1. **Team Goals**
+   - **Team Goals**
         - Launch the EasyParking system in two major cities within the next year.
         - Achieve a 25% reduction in average search time for parking spots among users.
-   8.2. **Set Team Values**
+   - **Set Team Values**
         - Innovation, Collaboration, Integrity, and User-Centricity.
-   8.3. **Set Team Code Of Ethics**
+   - **Set Team Code Of Ethics**
         - Commitment to privacy, transparency in data usage, and ethical AI practices.
-   8.4. **Set Rules And Expectations**
+   - **Set Rules And Expectations**
         - Punctuality for meetings, respect for diverse opinions, and a proactive approach to problem-solving.
 
-9. **SIGNATURES**
+10. **SIGNATURES**
    - A section for team members to sign, indicating their agreement and commitment to the project terms.
 
-10. **REFERENCES**
+11. **REFERENCES**
     - A compilation of research papers, articles, and resources that have informed the development of the EasyParking system.
 
-11. **APPENDIX**
+12. **APPENDIX**
     - Additional materials such as user surveys, prototype designs, and beta testing results.
